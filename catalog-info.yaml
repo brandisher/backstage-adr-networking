@@ -5,7 +5,7 @@ metadata:
   description: Kubernetes networking stack including CNI, service mesh, and ingress.
   annotations:
     backstage.io/adr-location: docs/adr
-    backstage.io/source-location: url:https://github.com/brandisher/backstage-adrs/tree/main/components/networking/
+    backstage.io/source-location: url:https://github.com/brandisher/backstage-adr-networking/tree/main/
 spec:
   type: service
   owner: john@example.com
